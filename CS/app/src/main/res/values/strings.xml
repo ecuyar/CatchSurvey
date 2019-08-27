@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Catch Survey</string>
+    <string name="kullanıcı_adı">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris">Giriş Yap</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="email">E-mail</string>
+    <string name="birth">Doğum günü</string>
+    <string name="sehir">Şehir</string>
+    <string name="hesap">Hesap Aç</string>
+    <string name="logo">Logo</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="unuttun">Şifreni mi unuttun?</string>
+    <string name="catch_survey">Catch Survey</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+    <string name="navigation_drawer_open">Open navigation bar</string>
+    <string name="navigation_drawer_close">Close navigation bar</string>
+    <string name="appEmail">catchsurveyapp@gmail.com</string>
+    <string name="forpass">Şifrenizi Yenileyin</string>
+    <string name="respass">İstek Gönder</string>
+    <string name="telefon">Telefon</string>
+    <string name="apply">Başvur</string>
+    <string name="yas">Yaş</string>
+    <string name="meslek">Meslek</string>
+
+</resources>
